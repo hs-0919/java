@@ -8,6 +8,6 @@ public class MainClass {
 		System.out.println("lab1 에서 완성함");
 		System.out.println("git 공부");
 		System.out.println("오늘은 7월29일");
-		
+		System.out.println("커밋 ");
 	}
 }
